@@ -1,7 +1,7 @@
 # Pandas
 ## 🚀 Features
 
- *Introduction to Pandas and its core data structures:*
+ *Introduction to Pandas*
 * `Series`
 * `DataFrame`
 * `Data Cleaning and Preprocessing`
@@ -13,18 +13,18 @@
 ## 🛠️ Requirements
 
 *Make sure you have the following installed:*
- > Python
+ > * Python
  > 
- > Jupyter Notebook / Google Colab
+ > * Jupyter Notebook / Google Colab
 
 ## 📖 Learning Outcomes
 
 *By working through this notebook, you will gain:*
- > A solid foundation in Pandas
+ > * A solid foundation in Pandas
  > 
- > Hands-on experience with data manipulation in Python
+ > * Hands-on experience with data manipulation in Python
  > 
- > Practical skills for data science & machine learning projects
+ > * Practical skills for data science & machine learning projects
 
 ## 🤝 Contributing
   Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
